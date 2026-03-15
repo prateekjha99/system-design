@@ -1,4 +1,4 @@
-package singleton.logger;
+package logger;
 
 import java.time.Instant;
 import java.util.ArrayList;

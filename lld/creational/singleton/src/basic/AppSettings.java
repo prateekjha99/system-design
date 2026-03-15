@@ -1,4 +1,4 @@
-package singleton.basic;
+package basic;
 
 public final class AppSettings {
     private static AppSettings instance;

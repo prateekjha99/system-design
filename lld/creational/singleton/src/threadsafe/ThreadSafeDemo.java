@@ -1,4 +1,4 @@
-package singleton.threadsafe;
+package threadsafe;
 
 /**
  * Demonstrates thread-safe Singleton with concurrent access.

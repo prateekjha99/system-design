@@ -1,4 +1,4 @@
-package singleton.logger;
+package logger;
 
 /**
  * Demonstrates Logger singleton (real-world example).

@@ -1,4 +1,4 @@
-package singleton.basic;
+package basic;
 
 /**
  * Demonstrates basic (non-thread-safe) Singleton.

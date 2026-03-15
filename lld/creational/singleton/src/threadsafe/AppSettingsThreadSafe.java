@@ -1,4 +1,4 @@
-package singleton.threadsafe;
+package threadsafe;
 
 /**
  * Thread-safe Singleton using double-checked locking with volatile.
